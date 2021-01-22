@@ -1,0 +1,14 @@
+#title{
+    background-color: aqua;
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-between;
+} 
+
+
+ li{
+    list-style: none;
+}
